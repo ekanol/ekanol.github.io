@@ -2,7 +2,7 @@
 title: "Introduction to social and religious movements (WiSe22/23)"
 collection: teaching
 type: "Graduate course (MA)"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/intro-social-movement22
 venue: "University of Münster"
 date: 2022-01-01
 location: "Münster, Germany"

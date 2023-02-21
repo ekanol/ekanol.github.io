@@ -1,7 +1,7 @@
 ---
-title: "Introduction to social and religious movements (WiSe22/23)"
+title: "Seminar: Introduction to social and religious movements (WiSe22/23)"
 collection: teaching
-type: "Graduate course (MA)"
+type: "Graduate course in English (MA)"
 permalink: /teaching/intro-social-movement22
 venue: "University of Münster"
 date: 2022-01-01

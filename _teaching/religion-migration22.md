@@ -1,7 +1,7 @@
 ---
 title: "Seminar: Religion and Migration (WiSe22/23)"
 collection: teaching
-type: "Undergraduate course (BA)"
+type: "Undergraduate course in English (BA)"
 permalink: /teaching/religion-migration22
 venue: "University of Münster"
 date: 2022-10-01

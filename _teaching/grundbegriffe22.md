@@ -1,7 +1,7 @@
 ---
 title: "Vorlesung: Soziologische Grundbegriffe und Forschungsfelder (WiSe22/23)"
 collection: teaching
-type: "Undergraduate course (BA)"
+type: "Undergraduate course in German (BA)"
 permalink: /teaching/grundbegriffe22
 venue: "University of Münster"
 date: 2022-10-01

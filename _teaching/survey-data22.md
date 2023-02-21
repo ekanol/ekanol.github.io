@@ -1,7 +1,7 @@
 ---
 title: "Seminar: Survey Data Analysis with R (WiSe22/23)"
 collection: teaching
-type: "Graduate course (MA)"
+type: "Graduate course in English (MA)"
 permalink: /teaching/survey-data22
 venue: "University of Münster"
 date: 2022-10-01

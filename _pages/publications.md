@@ -42,4 +42,4 @@ Koopmans, R., & Kanol, E. (2021). [Gewalt im Namen der Götter? Gewaltlegitimier
 
 Kanol, E. (2020). [Wertewandel im Nahen Osten? Rezension zu „The Clash of Values. Islamic Fundamentalism Versus Liberal Nationalism “von Mansoor Moaddel](https://www.ssoar.info/ssoar/handle/document/82765). _Soziopolis: Gesellschaft beobachten._
 
-Kanol, E. (2020). Understanding Islamist Radicalization: An Empirical Investigation into the Determinants of Islamist Attitudes and Violence. Dissertation.
+Kanol, E. (2020). Understanding Islamist Radicalization: An Empirical Investigation into the Determinants of Islamist Attitudes and Violence. _Dissertation_.

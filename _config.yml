@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Eylem Kanol"
+title                    : "Eylem Kanol"
 title_separator          : "-"
-name                     : &name "Eylem Kanol"
+name                     : &name "Dr. Eylem Kanol"
 description              : &description "Research Fellow at WZB Berlin Social Science Center"
 url                      : https://ekanol.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

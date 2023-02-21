@@ -8,7 +8,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 ## Peer-reviewed publications
 
-Hunger, S., Hutter, S., & Kanol, E. (2023). [The mobilization potential of anti-containment protests in Germany](https://www.tandfonline.com/doi/full/10.1080/01402382.2023.2166728). _West European Politics_, 46(4), 812-840. [PDF](files/The mobilisation potential of anti containment protests in Germany.pdf)
+Hunger, S., Hutter, S., & Kanol, E. (2023). [The mobilization potential of anti-containment protests in Germany](https://www.tandfonline.com/doi/full/10.1080/01402382.2023.2166728). _West European Politics_, 46(4), 812-840. [PDF](https://ekanol.github.io/files/The mobilisation potential of anti containment protests in Germany.pdf)
 
 Kanol, E. (2022). [The Role of Socioeconomic Marginalization in the Radicalization of Jihadi Foreign Fighters from Europe](https://www.tandfonline.com/doi/full/10.1080/1057610X.2022.2153504). _Studies in Conflict & Terrorism_. 
 

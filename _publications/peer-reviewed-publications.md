@@ -1,5 +1,7 @@
 ---
 title: "Peer-reviewed publications"
+collection: publications
+date: 
 permalink: /publication/peer-reviewed-publications
 excerpt: 'You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=MFvXV1sAAAAJ) profile or [Academia](https://wzb.academia.edu/EylemKanol) page.'
 ---

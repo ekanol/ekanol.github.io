@@ -10,7 +10,7 @@ main:
     url: /teaching/    
     
   - title: "Data"
-    url: /Data/
+    url: /dataset/
         
   - title: "CV"
     url: /cv/

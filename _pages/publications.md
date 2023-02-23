@@ -11,13 +11,10 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 Hunger, S., Hutter, S., & Kanol, E. (2023). [The mobilization potential of anti-containment protests in Germany](https://www.tandfonline.com/doi/full/10.1080/01402382.2023.2166728). _West European Politics_, 46(4), 812-840. [PDF](https://ekanol.github.io/files/mobilisation_potential.pdf)
 <details><summary style="outline:none";>Abstract</summary>
     <p style="line-height: 1.3">
-We investigate whether the threat of recruitment by rebel groups spurs domestic and international migration. The existing literature on wartime displacement has largely focused on potential victims of violence. We argue
-that alongside potential victims, we should expect to see the out-migration of individuals who are attractive to the rebels as potential recruits. To test this hypothesis, we draw on original survey data collected in the
-context of the MFDC insurgency in southern Senegal. Causal identification stems from instrumenting recruitment threat with the density of the local forest canopy cover. Analyzing data from 3,200 respondents and over
-24,000 family members, we show that individuals who fit the recruitment profiles of rebel groups are more likely to leave and be sent away by their families. Our paper contributes micro-evidence for a mechanism linking
-violent conflict to migration, which so far has received scant attention, and provides a deeper understanding of the composition of refugee flows.
+The Covid-19 pandemic triggered polarisation across Europe. While most citizens supported governments’ containment measures, others took to the streets and voiced their dissatisfaction. The article focuses on the mobilisation potential related to this heterogenous protest wave. It examines individuals that show sympathy and are willing to engage in anti-containment demonstrations based on 16 waves of a rolling cross-section survey fielded in Germany in 2020/2021. The results show a considerable and stable mobilisation potential: every fifth respondent sympathises with the protesters, and around 60% of those are ready to participate themselves. Political distrust, far-right orientations and an emerging ‘freedom divide’ structure the potential, as do Covid-19-related economic and health threats. Moreover, the findings indicate a radicalisation process and show how ideology and threat perceptions drive the step from sympathy to willingness to participate, suggesting that ideological polarisation may quickly spill over to the streets given an appropriate supply of protest opportunities.
     </details>
-    
+        <br>
+
 Kanol, E. (2022). [The Role of Socioeconomic Marginalization in the Radicalization of Jihadi Foreign Fighters from Europe](https://www.tandfonline.com/doi/full/10.1080/1057610X.2022.2153504). _Studies in Conflict & Terrorism_. [PDF](https://ekanol.github.io/files/role_socioeconomic.pdf)
 
 Kanol, E. (2022). [Contexts of Radicalization of Jihadi Foreign Fighters from Europe](https://www.jstor.org/stable/27140393). _Perspectives on Terrorism_, 16(3), 45–62. [PDF](https://ekanol.github.io/files/contexts_radicalization.pdf)

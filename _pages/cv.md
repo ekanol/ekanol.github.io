@@ -8,7 +8,7 @@ permalink: /cv/
     <title>CV</title>
   </head>
   <body>
-    <p>You can download my CV <a href="https://ekanol.github.io/files/kanol_cv.pdf">here</a>.</p>
+    <p>You can also download my CV <a href="https://ekanol.github.io/files/kanol_cv.pdf">here</a>.</p>
   </body>
 </html>
 

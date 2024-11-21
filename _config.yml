@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  bluesky          : kanol.bsky.social
+  bluesky          : "kanol.bsky.social"
 
 # Reading Files
 include:

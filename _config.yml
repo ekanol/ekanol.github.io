@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=MFvXV1sAAAAJ&hl=en"
   email            : "eylem.kanol@wzb.eu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Eylem-Kanol"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,20 +102,20 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/eylem-kanol-08646510a/?originalSubdomain=en"
   orcid            : "https://orcid.org/0000-0002-3040-3367"
   pinterest        :
-  soundcloud       :
+  soundcloud       : "https://soundcloud.com/papanoahh"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@eylemyap"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-
+  bluesky          : "@kanol.bsky.social"
 
 # Reading Files
 include:
